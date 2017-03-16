@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="type_your_username">Type your username:</string>
+    <string name="password">Type your password</string>
+    <string name="c1">C1</string>
+    <string name="c2">C2</string>
+    <string name="c3">C3</string>
+    <string name="c4">C4</string>
+    <string name="c5">C5</string>
+    <string name="forgot_you_password">Forgot you password?</string>
+</resources>
